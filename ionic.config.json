@@ -1,0 +1,8 @@
+{
+  "name": "ionic_apk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "344feee6"
+}
